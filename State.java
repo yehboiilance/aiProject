@@ -4,7 +4,7 @@ import java.nio.file.*;
 
 public class State implements Comparable<State>
 {
-    
+//Git test push 
     private static int[] board = new int[14];
     private int hValue;
 

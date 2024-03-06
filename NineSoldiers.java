@@ -10,7 +10,7 @@ public class NineSoldiers{
 
 
         
-
+        String startState;
 
         List<Node> solution = bestFirstSearch(startState);
 
